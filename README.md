@@ -31,10 +31,11 @@ https://goor.me/kr4rq
 1. 링크로 들어간다
 2. 왼쪽 상단에 프로젝트 -> 빌드 실행/설정 클릭
 3. 컴파일러 -> python3로 설정, 실행 화면 크기를 800x600으로 설정 -> 적용 및 확인
-4. index.py에서 shift + F5를 눌러서 실행한다.
-5. 아래의 터미널창에 우측에 서버 링크가 생성이 된다.
-6. 링크를 클릭한다.
-7. 새로운 페이지에서 게임이 실행된다.
+4. 하단에 터미널을 클릭 -> pip3 install pygame 을 입력하여 pygame 라이브러리를 설치
+5. index.py에서 shift + F5를 눌러서 실행한다.
+6. 아래의 터미널창에 우측에 서버 링크가 생성이 된다.
+7. 링크를 클릭한다.
+8. 새로운 페이지에서 게임이 실행된다.
 
 -------------------------------------------------------------------------------------------------------
 
@@ -61,9 +62,9 @@ https://goor.me/kr4rq
 
 cmd창에서 다음과 같은 명령어를 차례대로 입력하자
 
-python
-import pygame
-pygame.init()
+1. python
+2. import pygame
+3. pygame.init()
 
 를 차례대로 입력하여 실행하여 정상적으로 pygame이 작동하는지 cmd 창에서 확인하여
 자신의 컴퓨터에 pygame 라이브러리가 문제가 없는지 꼭 확인이 필요하다.
@@ -87,9 +88,9 @@ pygame.init() 단계에서 발생한다.
 	-> 파이썬 환경 변수 path는 인터넷상에 자세하게 나와있습니다.
 
 2. 수동으로 pip 명령을 통해서 pylint를 설치한다.
-	python -m pip install --upgrade pip 
-	python -m pip install pylint
-	2가지 명령어를 cmd창에서 실행하여 pylint를 설치를 완료하자
+	1. python -m pip install --upgrade pip 
+	2. python -m pip install pylint
+	3. 2가지 명령어를 cmd창에서 실행하여 pylint를 설치를 완료하자
 
 위 2가지를 충족한다면 문제 없이 vscode에서 pygame이 돌아갑니다.
 vscode에서 빨간줄로 밑줄이나, 노란줄은 신경쓰지 않아도 됩니다.
