@@ -4,7 +4,7 @@
 - 한경대학교 컴퓨터공학입문과파이썬 기말고사 
 - 게임 프로젝트 제작하기
 - 구글 ppt 링크 : https://drive.google.com/file/d/1931xnje5iUYOvDtdIHFbMJk5QYaEzELt/view?usp=sharing
-- 발표 및 구동 영상 링크 : https://drive.google.com/file/d/1NyCxzWQCO-SMGnjIpoUkojz-z24v3-Cj/view?usp=sharing
+- 발표 및 구동 영상 링크 : https://drive.google.com/file/d/1zFqfw6hfkc2HNHvL9aePcPy0lN3wuZZ0/view?usp=sharing
 
 -------------------------------------------------------------------------------------------------------
   
